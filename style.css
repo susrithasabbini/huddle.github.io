@@ -1,0 +1,331 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+body header {
+    background-image: url("bg-hero-desktop.svg");
+    background-color: hsl(193, 100%, 96%);
+    width: 100%;
+}
+
+body header div.A img {
+    padding: 30px;
+    height: 40px;
+    padding-left: 120px;
+}
+
+body header div.A h5 {
+    border-radius: 25px;
+    width: fit-content;
+    background-color: white;
+    margin-top: -60px;
+    margin-left: 80%;
+    padding: 10px;
+    padding-left: 45px;
+    padding-right: 45px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: 'Open Sans', sans-serif;
+}
+
+body header div.A h5:hover {
+    opacity: 0.8;
+}
+
+body header div.BC div.C img {
+    padding-left: 15%;
+    height: 400px;
+}
+
+body header div.BC div.B {
+    padding-top: 5%;
+    padding-left: 70px;
+}
+
+body header div.BC {
+    display: flex;
+}
+
+body header div.BC div.C {
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-bottom: 2%;
+}
+
+body header div.BC div.B h1 {
+    padding-left: 50px;
+    padding-top: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+body header div.BC div.B p {
+    padding-left: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body header div.BC div.B h5 {
+    border-radius: 25px;
+    width: fit-content;
+    background-color: hsl(322, 100%, 66%);
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 50px;
+    color: hsl(193, 100%, 96%);
+    font-family: 'Open Sans', sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body header div.BC div.B h5:hover {
+    opacity: 0.8;
+}
+
+body main {
+    width: 80%;
+    margin-left: 5%;
+}
+
+body main section.growtogether {
+    margin-top: 5%;
+    padding: 5%;
+    padding-left: 10%;
+    border-radius: 10px;
+    margin-left: 10%;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body main section.growtogether div.card {
+    display: flex;
+}
+
+body main section.growtogether div.card div.content h2 {
+    padding-top: 25%;
+    font-family: 'Poppins', sans-serif;
+}
+
+body main section.growtogether div.card div.content p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body main section.growtogether div.card div.image {
+    padding-left: 200px;
+}
+
+body main section.growtogether div.card div.image img {
+    height: 300px;
+}
+
+body main section.flowingconversions {
+    margin-top: 5%;
+    padding: 5%;
+    padding-left: 10%;
+    border-radius: 10px;
+    margin-left: 10%;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body main section.flowingconversions div.card {
+    display: flex;
+}
+
+body main section.flowingconversions div.card div.content {
+    padding-left: 120px;
+}
+
+body main section.flowingconversions div.card div.content h2 {
+    padding-top: 25%;
+    font-family: 'Poppins', sans-serif;
+}
+
+body main section.flowingconversions div.card div.content p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body main section.flowingconversions div.card div.image img {
+    height: 300px;
+}
+
+body main section.yourusers {
+    margin-top: 5%;
+    margin-bottom: 25%;
+    padding: 5%;
+    padding-left: 10%;
+    border-radius: 10px;
+    margin-left: 10%;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body main section.yourusers div.card {
+    display: flex;
+}
+
+body main section.yourusers div.card div.content h2 {
+    padding-top: 25%;
+    font-family: 'Poppins', sans-serif;
+}
+
+body main section.yourusers div.card div.content p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body main section.yourusers div.card div.image {
+    padding-left: 200px;
+}
+
+body main section.yourusers div.card div.image img {
+    height: 300px;
+}
+
+body main section.ready {
+    margin-top: -200px;
+    margin-left: 28%;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 5%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: absolute;
+}
+
+body main section.ready h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+body main section.ready h5 {
+    border-radius: 25px;
+    width: fit-content;
+    background-color: hsl(322, 100%, 66%);
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 100px;
+    color: hsl(193, 100%, 96%);
+    font-family: 'Open Sans', sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body main section.ready h5:hover {
+    opacity: 0.8;
+}
+
+body footer {
+    background-color: hsl(192, 100%, 9%);
+    font-family: 'Open Sans', sans-serif;
+}
+
+body footer div.content div.ABC div.A {
+    display: flex;
+}
+
+body footer div.content div.ABC div.A img {
+    padding-right: 20px;
+}
+
+body footer div.content div.ABC div.A p {
+    color: hsl(193, 100%, 96%);
+}
+
+body footer div.content div.ABC div.B {
+    display: flex;
+} 
+
+body footer div.content div.ABC div.B img {
+    padding-right: 20px;
+}
+
+body footer div.content div.ABC div.B p {
+    padding-top: 15px;
+    color: hsl(193, 100%, 96%);
+}
+
+body footer div.content div.ABC div.C {
+    display: flex;
+}
+
+body footer div.content div.ABC div.C img {
+    padding-right: 20px;
+}
+
+body footer div.content div.ABC div.C p {
+    padding-top: 15px;
+    color: hsl(193, 100%, 96%);
+} 
+
+body footer div.content div.ABC div.A p:hover {
+    text-decoration: underline;
+}
+
+body footer div.content div.ABC div.B p:hover {
+    text-decoration: underline;
+}
+
+body footer div.content div.ABC div.C p:hover {
+    text-decoration: underline;
+}
+
+body footer {
+    padding-top: 100px;
+}
+
+body footer img {
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 25px;
+    filter: brightness(0) invert(1);
+}
+
+body footer div.content {
+    display: flex;
+}
+
+body footer div.content div.D {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+body footer div.content div.D p {
+    color: hsl(193, 100%, 96%);
+}
+
+body footer div.content div.D p:hover {
+    text-decoration: underline;
+}
+
+body footer div.content div.E p {
+    color: hsl(193, 100%, 96%);
+}
+
+body footer div.content div.E p:hover {
+    text-decoration: underline;
+}
+
+body footer div.copy {
+    padding-left: 68%;
+}
+
+body footer div.copy p {
+    padding-bottom: 5%;
+    color: hsl(193, 100%, 96%);
+}
+
+body footer div.content div.logo {
+    padding-left: 10%;
+    padding-top: 1%;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    filter: brightness(0) invert(1);
+    border: 2px solid white;
+}
+
+.fa:hover {
+    opacity: 0.7;
+    filter: saturate(5);
+}
